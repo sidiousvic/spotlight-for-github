@@ -1,0 +1,90 @@
+body,
+html {
+  background-color: crimson;
+  /* display: flex;
+  min-height: 100vh;
+  flex-direction: column; */
+  /* background-image: url("./dribble.jpg"); */
+  background-size: 200px;
+  background-blend-mode: color-dodge;
+}
+
+.badge {
+  color: white;
+  background-color: crimson;
+}
+
+.badge-repo-name {
+  color: white;
+  background-color: crimson;
+}
+
+.bg-primary {
+  background-color: crimson !important;
+  border-radius: 0.8rem;
+  border: 1px solid white;
+}
+
+.list-group-item {
+  color: white;
+  position: relative;
+  display: block;
+  padding: 0.75rem 1.25rem;
+  margin-bottom: -2px;
+  background-color: crimson;
+  border: 1px solid white;
+  border-radius: 0.8rem !important;
+  margin: 10px 0px;
+}
+
+h1,
+h3,
+p {
+  color: white;
+  font-family: "Press Start 2P";
+  font-weight: 100;
+}
+
+h1,
+h3 {
+}
+
+i {
+  color: white;
+}
+
+img {
+  border-radius: 0.8rem;
+  /* border: 1px solid white; */
+}
+
+.btn-primary {
+  background-color: crimson;
+  background-image: none;
+  border-radius: 0.8rem;
+  border: 1px solid white;
+}
+
+.card {
+  background-color: crimson;
+  border: 1px solid white;
+  box-shadow: white 10px 10px;
+  border-radius: 0.8rem;
+}
+
+nav i {
+  color: fuchsia;
+}
+
+.bg-dark {
+  background-color: crimson !important;
+}
+
+footer {
+  color: white;
+  display: block;
+  /* height: 100vh; */
+  /* flex: 1; */
+  /* background-image: url("./dribble.jpg"); */
+  background-size: 200px;
+}
