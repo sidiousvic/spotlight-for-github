@@ -2,4 +2,4 @@
 
 A GitHub profile lookup app. 🔦
 
-@sidiousvic
+by @sidiousvic
